@@ -16,6 +16,8 @@ This repository contains information about the apps I regularly use on my comput
 
 1. [Obsidian](https://obsidian.md/)
     - The private and flexible writing app that adapts to the way you think.
+2. [Draw.io](https://draw.io)
+    - Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 
 ### Security
 
