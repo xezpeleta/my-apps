@@ -40,6 +40,10 @@ This repository contains information about the apps I regularly use on my comput
 4. [Apache Directory Studio](https://directory.apache.org/studio/)
     - The Eclipse-based LDAP browser and directory client
 
+### Video
+
+1. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+    - Combines editing, color correction, visual effects, motion graphics and audio post production all in one software tool
 
 ### Others
 
